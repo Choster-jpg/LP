@@ -1,0 +1,20 @@
+﻿Сборка начата 10.04.2020 15:37:30.
+Уровень детализации журнала: Normal.     1>Проект "D:\Нада\ЯП\Лаб_8\LP_Pab08L\LP_Pab08L.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\LP_Pab08L.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         Для всех выходных данных обновления не требуется.
+       Lib:
+         Для всех выходных данных обновления не требуется.
+         LP_Pab08L.vcxproj -> D:\Нада\ЯП\Лаб_8\LP_Lab08S\Debug\LP_Pab08L.lib
+       FinalizeBuildStatus:
+         Файл "Debug\LP_Pab08L.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\LP_Pab08L.tlog\LP_Pab08L.lastbuildstate".
+     1>Сборка проекта "D:\Нада\ЯП\Лаб_8\LP_Pab08L\LP_Pab08L.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.04

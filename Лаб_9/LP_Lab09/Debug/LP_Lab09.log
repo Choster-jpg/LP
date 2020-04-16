@@ -1,0 +1,24 @@
+﻿Сборка начата 16.04.2020 20:15:53.
+Уровень детализации журнала: Normal.     1>Проект "D:\Нада\ЯП\Лаб_9\LP_Lab09\LP_Lab09.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\LP_Lab09.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:prompt Varparm.cpp
+         Varparm.cpp
+     1>D:\Нада\ЯП\Лаб_9\LP_Lab09\Varparm.cpp(61,62): error C2572: Varparm::defaultparam: переопределение аргумента по умолчанию: параметр 1
+       D:\Нада\ЯП\Лаб_9\LP_Lab09\Varparm.h(12): message : см. объявление "Varparm::defaultparam"
+     1>D:\Нада\ЯП\Лаб_9\LP_Lab09\Varparm.cpp(61,73): error C2572: Varparm::defaultparam: переопределение аргумента по умолчанию: параметр 2
+       D:\Нада\ЯП\Лаб_9\LP_Lab09\Varparm.h(12): message : см. объявление "Varparm::defaultparam"
+     1>Сборка проекта "D:\Нада\ЯП\Лаб_9\LP_Lab09\LP_Lab09.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "D:\Нада\ЯП\Лаб_9\LP_Lab09\LP_Lab09.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\Нада\ЯП\Лаб_9\LP_Lab09\Varparm.cpp(61,62): error C2572: Varparm::defaultparam: переопределение аргумента по умолчанию: параметр 1
+         D:\Нада\ЯП\Лаб_9\LP_Lab09\Varparm.cpp(61,73): error C2572: Varparm::defaultparam: переопределение аргумента по умолчанию: параметр 2
+
+    Предупреждений: 0
+    Ошибок: 2
+
+Прошло времени 00:00:00.49
